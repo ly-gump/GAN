@@ -40,6 +40,6 @@ Nvidia 团队在 2018 年发表的一篇论文中提出了高分辨率图像生�
 
 ## Cycle GAN
 生成器进行风格转移，判别器判别是否为这个风格。保证生成器和原照片有关联，用到auto-encoder的想法，再加一个生成器生成为原来的图片，使二者变化尽可能小。
-
+![StyleGAN](https://github.com/ly-gump/GAN/blob/main/figures/Cycle GAN.png)
 
 
